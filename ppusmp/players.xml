@@ -32,7 +32,7 @@
       <position id="1704601300" positiondatatype="7" pos="-525,61,-451" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" nativeplatform="Steam" nativeuserid="76561199524982820" playername="v1rushB" playgroup="Standalone" lastlogin="2025-10-27 23:51:13" position="280,61,-648">
+  <player platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" nativeplatform="Steam" nativeuserid="76561199524982820" playername="v1rushB" playgroup="Standalone" lastlogin="2025-10-28 02:38:53" position="438,62,742">
     <acl platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" />
     <lpblock pos="441,61,740" />
     <bedroll pos="440,62,743" />
@@ -40,6 +40,8 @@
       <position id="-1916295841" positiondatatype="2" pos="277,48,-342" />
       <position id="-1916295841" positiondatatype="0" pos="204,77,-136" />
       <position id="-1916295841" positiondatatype="7" pos="318,62,-322" />
+      <position id="-1369902984" positiondatatype="0" pos="459,62,655" />
+      <position id="-1369902984" positiondatatype="2" pos="769,56,888" />
     </questpositions>
   </player>
   <player platform="EOS" userid="0002eb199efc46b789f80ef4dcb5bb64" nativeplatform="Steam" nativeuserid="76561198868575775" playername="dan waleed" playgroup="Standalone" lastlogin="2025-10-25 19:10:59" position="497,54,871">
