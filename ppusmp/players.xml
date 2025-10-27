@@ -45,7 +45,7 @@
       <position id="1956360836" positiondatatype="0" pos="459,62,655" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="0002b310cc4c4258bfc8338c5c53c516" nativeplatform="Steam" nativeuserid="76561199473798401" playername="Hunter_23" playgroup="Standalone" lastlogin="2025-10-26 19:46:31" position="200,76,-135">
+  <player platform="EOS" userid="0002b310cc4c4258bfc8338c5c53c516" nativeplatform="Steam" nativeuserid="76561199473798401" playername="Hunter_23" playgroup="Standalone" lastlogin="2025-10-27 20:33:31" position="204,76,-129">
     <acl platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" />
     <acl platform="EOS" userid="0002de39d3724227b801f236572fd09d" />
     <lpblock pos="468,61,603" />
@@ -53,8 +53,9 @@
     <questpositions>
       <position id="499143405" positiondatatype="2" pos="694,59,627" />
       <position id="499143405" positiondatatype="0" pos="459,62,655" />
-      <position id="-373760065" positiondatatype="2" pos="694,59,627" />
-      <position id="-373760065" positiondatatype="0" pos="459,62,655" />
+      <position id="499143405" positiondatatype="7" pos="731,61,681" />
+      <position id="892383487" positiondatatype="0" pos="204,77,-136" />
+      <position id="892383487" positiondatatype="2" pos="-273,57,-67" />
     </questpositions>
   </player>
 </persistentplayerdata>
