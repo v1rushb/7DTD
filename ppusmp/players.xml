@@ -19,7 +19,7 @@
       <position id="956211303" positiondatatype="0" pos="976,67,-1529" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" nativeplatform="Steam" nativeuserid="76561199473559406" playername="[3MK] ☬ Ķäṩpễr ☬" playgroup="Standalone" lastlogin="2025-10-30 23:06:28" position="1022,59,-1530">
+  <player platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" nativeplatform="Steam" nativeuserid="76561199473559406" playername="[3MK] ☬ Ķäṩpễr ☬" playgroup="Standalone" lastlogin="2025-10-31 00:40:07" position="982,66,-1534">
     <acl platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" />
     <acl platform="EOS" userid="0002eb199efc46b789f80ef4dcb5bb64" />
     <acl platform="EOS" userid="0002b310cc4c4258bfc8338c5c53c516" />
@@ -33,13 +33,9 @@
       <position id="-1912969799" positiondatatype="4" pos="2355,72,-1001" />
       <position id="-2004774972" positiondatatype="0" pos="976,67,-1529" />
       <position id="-2004774972" positiondatatype="2" pos="2197,69,-1294" />
-      <position id="-1916295841" positiondatatype="2" pos="277,48,-342" />
-      <position id="-1916295841" positiondatatype="0" pos="204,77,-136" />
-      <position id="1182466678" positiondatatype="2" pos="1883,56,-1814" />
-      <position id="1182466678" positiondatatype="0" pos="976,67,-1529" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" nativeplatform="Steam" nativeuserid="76561199524982820" playername="v1rushB" playgroup="Standalone" lastlogin="2025-10-30 23:06:28" position="1023,59,-1531">
+  <player platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" nativeplatform="Steam" nativeuserid="76561199524982820" playername="v1rushB" playgroup="Standalone" lastlogin="2025-10-31 00:40:07" position="975,67,-1531">
     <acl platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" />
     <acl platform="EOS" userid="0002b310cc4c4258bfc8338c5c53c516" />
     <lpblock pos="441,61,740" />
@@ -50,8 +46,6 @@
       <position id="-1916295841" positiondatatype="7" pos="318,62,-322" />
       <position id="-1359301062" positiondatatype="4" pos="7,69,-2225" />
       <position id="865656075" positiondatatype="4" pos="-168,57,-1755" />
-      <position id="1182466678" positiondatatype="2" pos="1883,56,-1814" />
-      <position id="1182466678" positiondatatype="0" pos="976,67,-1529" />
       <position id="1653255842" positiondatatype="2" pos="-462,55,877" />
       <position id="1653255842" positiondatatype="0" pos="459,62,655" />
       <position id="-2004774972" positiondatatype="2" pos="2197,69,-1294" />
