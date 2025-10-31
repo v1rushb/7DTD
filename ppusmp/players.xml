@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="0002de39d3724227b801f236572fd09d" nativeplatform="Steam" nativeuserid="76561199524730120" playername="Arthur" playgroup="Standalone" lastlogin="2025-10-30 18:29:16" position="1022,59,-1530">
+  <player platform="EOS" userid="0002de39d3724227b801f236572fd09d" nativeplatform="Steam" nativeuserid="76561199524730120" playername="Arthur" playgroup="Standalone" lastlogin="2025-10-31 16:11:53" position="1023,59,-1531">
     <acl platform="EOS" userid="0002eb199efc46b789f80ef4dcb5bb64" />
     <acl platform="EOS" userid="0002b310cc4c4258bfc8338c5c53c516" />
     <acl platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" />
+    <acl platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" />
     <bedroll pos="486,61,732" />
     <questpositions>
       <position id="152474876" positiondatatype="2" pos="586,49,-578" />
@@ -11,12 +12,10 @@
       <position id="-2097816759" positiondatatype="2" pos="-462,55,877" />
       <position id="-2097816759" positiondatatype="0" pos="459,62,655" />
       <position id="-2097816759" positiondatatype="7" pos="-415,61,919" />
-      <position id="1653255842" positiondatatype="2" pos="-462,55,877" />
-      <position id="1653255842" positiondatatype="0" pos="459,62,655" />
-      <position id="-2004774972" positiondatatype="2" pos="2197,69,-1294" />
-      <position id="-2004774972" positiondatatype="0" pos="976,67,-1529" />
       <position id="956211303" positiondatatype="2" pos="1301,54,-1136" />
       <position id="956211303" positiondatatype="0" pos="976,67,-1529" />
+      <position id="-1916295841" positiondatatype="2" pos="277,48,-342" />
+      <position id="-1916295841" positiondatatype="0" pos="204,77,-136" />
     </questpositions>
   </player>
   <player platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" nativeplatform="Steam" nativeuserid="76561199473559406" playername="[3MK] ☬ Ķäṩpễr ☬" playgroup="Standalone" lastlogin="2025-10-31 00:40:07" position="982,66,-1534">
@@ -35,9 +34,10 @@
       <position id="-2004774972" positiondatatype="2" pos="2197,69,-1294" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" nativeplatform="Steam" nativeuserid="76561199524982820" playername="v1rushB" playgroup="Standalone" lastlogin="2025-10-31 02:06:46" position="1024,66,-1517">
+  <player platform="EOS" userid="000247ac8dd8482fa09e2741b9aa8d5e" nativeplatform="Steam" nativeuserid="76561199524982820" playername="v1rushB" playgroup="Standalone" lastlogin="2025-10-31 16:12:36" position="1024,59,-1528">
     <acl platform="EOS" userid="0002fb62662c4aee9ec844b6d1c975d2" />
     <acl platform="EOS" userid="0002b310cc4c4258bfc8338c5c53c516" />
+    <acl platform="EOS" userid="0002de39d3724227b801f236572fd09d" />
     <lpblock pos="441,61,740" />
     <bedroll pos="440,62,743" />
     <questpositions>
